@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Kyi Phyu Thwe</h1>
 <h3 align="center">Web Developer</h3>
-<img align=“right” alt=“coding” width=“400” src=“https://iconscout.com/lottie-animation/programmer-6540746”>
+<img align=“right” alt=“coding” width=“400” src=“https://www.careerguide.com/career/new-age-career-options/top-7-scope-in-the-field-of-coding/attachment/coding_gif”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyiphyuthwe&label=Profile%20views&color=0e75b6&style=flat" alt="kyiphyuthwe" /> </p>
 
